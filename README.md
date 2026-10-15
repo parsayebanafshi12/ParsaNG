@@ -1,5 +1,5 @@
-# ParsaNG (Better Version Of PattNG)
-
+ParsaNG (Better Version Of PattNG)
+--
 v2rayNG fork for Iranians
 
 **تغییرات v2rayNG:**
